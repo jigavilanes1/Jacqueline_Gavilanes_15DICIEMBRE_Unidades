@@ -1,0 +1,117 @@
+@charset "utf-8";
+/* CSS Document */
+@import url('https://fonts.googleapis.com/css?family=Abel|Abril+Fatface|Alegreya|Arima+Madurai|Dancing+Script|Dosis|Merriweather|Oleo+Script|Overlock|PT+Serif|Pacifico|Playball|Playfair+Display|Share|Unica+One|Vibur');
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+background-image: -webkit-linear-gradient(bottom, #a8edea 0%, #fed6e3 100%);
+background-image: -o-linear-gradient(bottom, #a8edea 0%, #fed6e3 100%);
+background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);
+background-attachment: fixed;
+  	background-repeat: no-repeat;
+    font-family: 'Vibur', cursive;
+    font-family: 'Abel', sans-serif;
+opacity: .95;
+}
+form {
+    width: 450px;
+    min-height: 500px;
+    height: auto;
+    border-radius: 5px;
+    margin: 2% auto;
+    box-shadow: 0 9px 50px hsla(20, 67%, 75%, 0.31);
+    padding: 2%;
+    background-image: linear-gradient(-225deg, #E3FDF5 50%, #FFE6FA 50%);
+}
+header {
+    margin: 2% auto 10% auto;
+    text-align: center;
+}
+header h1 {
+    font-size: 250%;
+    font-family: 'Playfair Display', serif;
+    color: #3D0E0F;
+}
+header h2 {
+    font-size: 150%;
+    font-family: 'Playfair Display', serif;
+    color: #25B1C2;
+}
+header p1 {
+	font-size: 0.55cm;
+	letter-spacing: 0.05em;
+	color: #091535;
+}
+header p2 {
+	font-size: 5.5mm;
+	letter-spacing: 0.05em;
+	color: #091535;
+}
+header p3 {
+	font-size: 0.21in;
+	letter-spacing: 0.05em;
+	color: #091535;
+}
+header p4 {
+	font-size: 22px;
+	letter-spacing: 0.05em;
+	color: #091535;
+}
+header p5 {
+	font-size: 17pt;
+	letter-spacing: 0.05em;
+	color: #091535;
+}
+header p6 {
+	font-size: 1.35pc;
+	letter-spacing: 0.05em;
+	color: #091535;
+}
+header p7 {
+	font-size: 1.5em;
+	letter-spacing: 0.05em;
+	color: #091535;
+}
+header p8 {
+	font-size: 2.5ex;
+	letter-spacing: 0.05em;
+	color: #091535;
+}
+header p9 {
+	font-size: 2.5ch;
+	letter-spacing: 0.05em;
+	color: #091535;
+}
+header p10 {
+	font-size: 1.5rem;
+	letter-spacing: 0.05em;
+	color: #091535;
+}
+header p11 {
+	font-size: 2vw;
+	letter-spacing: 0.05em;
+	color: #091535;
+}
+header p12 {
+	font-size: 4.5vh;
+	letter-spacing: 0.05em;
+	color: #091535;
+}
+header p13 {
+	font-size: 4.2vmin;
+	letter-spacing: 0.05em;
+	color: #091535;
+}
+header p14 {
+	font-size: 2vmax;
+	letter-spacing: 0.05em;
+	color: #091535;
+}
+header p15{
+	font-size: 90%;
+	letter-spacing: 0.05em;
+	color: #091535;
+}
